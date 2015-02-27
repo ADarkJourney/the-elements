@@ -2,5 +2,5 @@
 
 A First Age fan-fiction.
 
-[Chapter 1](001.md)
-[Chapter 2](002.md)
+* [Chapter 1](001.md)
+* [Chapter 2](002.md)

@@ -9,3 +9,4 @@ A First Age fan-fiction.
 * [Chatper 5](005.md)
 * [Chapter 6](006.md)
 * [Chapter 7](007.md)
+* [Chapter 8](008.md)

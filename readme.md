@@ -12,3 +12,4 @@ A First Age fan-fiction.
 * [Chapter 8](008.md)
 * [Chapter 9](009.md)
 * [Chapter 10](010.md)
+* [Chapter 11](011.md)

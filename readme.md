@@ -13,3 +13,4 @@ A First Age fan-fiction.
 * [Chapter 9](009.md)
 * [Chapter 10](010.md)
 * [Chapter 11](011.md)
+* [Chapter 12](012.md)

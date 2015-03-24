@@ -1,6 +1,8 @@
 #The Elements
 
-A First Age fan-fiction.
+_A First Age fan-fiction._
+
+After Siberia Borovsky assigns Aria to work directly with Dorian Vega, one of Martin's trusted men.  After a heart felt talk with Martin, Dorian is assigned a mission to take out a goddess, he chooses to take along Aria, Nox, Antoinette Cailot and Vincent Auclair.  But this goddess is involved with more than one god, and things are not exactly as they seem.
 
 * [Chapter 1](001.md)
 * [Chapter 2](002.md)
@@ -14,3 +16,4 @@ A First Age fan-fiction.
 * [Chapter 10](010.md)
 * [Chapter 11](011.md)
 * [Chapter 12](012.md)
+* [Chapter 13](013.md)

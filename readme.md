@@ -21,5 +21,6 @@ After Siberia Borovsky assigns Aria to work directly with Dorian Vega, one of Ma
 * [Chapter 15](015.md)
 * [Chapter 16](016.md)
 * [Chapter 17](017.md)
+* [Chapter 18](018.md)
 
 _started Feb 26_

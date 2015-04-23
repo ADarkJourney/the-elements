@@ -23,4 +23,4 @@ After Siberia Borovsky assigns Aria to work directly with Dorian Vega, one of Ma
 * [Chapter 17](017.md)
 * [Chapter 18](018.md)
 
-_started Feb 26_
+_started Feb 26 finixhed 4/24/3015 98025 words_
